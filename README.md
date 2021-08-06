@@ -33,7 +33,7 @@
         display: none;
     }
     .topTitleOut {
-        background: url(http://via.placeholder.com/2000x300) no-repeat scroll center center / cover;
+        background: url(https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/untitled_design__1_.png) no-repeat scroll center center / cover;
         color: #fff;
         font-weight: bold;
         margin-bottom: 0px;
@@ -44,7 +44,7 @@
         font-size: 36px;
     }
 	.smRed {
-		color: #AA1E2D;
+		color: #020E54;
 		font-weight: bold;
 	}
 	
@@ -57,7 +57,7 @@
         height: auto !important;
     }
     .navigation {
-        background:#aa1e2d;
+        background:#020E54;
         padding: 20px 0;
     }
     .inNavIn {
@@ -80,7 +80,7 @@
         padding: 20px 0;
         left: 0;
         display: none;
-        background: #aa1e2d;
+        background: #020E54;
         z-index: 300;
     }
     #topVideo {
@@ -88,12 +88,12 @@
     }
     /* Begin Testimonial Styles */
     #cpTestimonialOut {
-        background: #222d65;
+        background: #7DB5D0;
         padding-top: 30px;
         padding-bottom: 30px;
     }
     #testimonialSlider h1 {
-        color: #ffffff;
+        color: #020E54;
         font-size: 30px;
         font-weight: 300;
         text-align: center;
@@ -110,12 +110,12 @@
         height: 190px;
     }
     #testimonialSlider .item p {
-        color: #fff;
+        color: #020E54;
         font-size: 17px;
         line-height: 23px;
     }
     #testimonialSlider h3 {
-        color: #fff;
+        color: #020E54;
         font-size: 17px;
         font-weight: 700;
         line-height: 21px;
@@ -142,7 +142,7 @@
         padding-top: 20px;
     }
     .date {
-        color: #666;
+        color: #020E54;
         font-size: 17px;
         text-align: center;
         font-weight: 600;
@@ -161,13 +161,13 @@
     .detDes {
         padding-top: 17px;
         font-size: 12px;
-        background: #333333;
+        background: #7DB520;
         color: #fff;
         overflow: hidden;
         text-align: center;
     }
     .detTitle {
-        background: #222d65;
+        background: #A52C23;
         color: #fff;
         text-align: center;
         line-height: 30px;
@@ -185,7 +185,7 @@
         position: absolute;
         font-size: 35px;
         top: 12px;
-        color: #333333;
+        color: #72B5D0;
         z-index: 10;
     }
     .row.bookRow {
@@ -194,7 +194,7 @@
     }
     .pirceInfo {
         border-right: 1px solid #222d65;
-        color: #222d65;
+        color: #020E54;
         text-align: center;
         font-size: 20px;
         font-weight: 600;
@@ -205,7 +205,7 @@
     .bookBTN a {
         display: table;
         width: 73%;
-        background: #aa1e2d;
+        background: #FF700A;
         color: #fff;
         height: 38px;
         line-height: 38px;
@@ -213,13 +213,13 @@
         text-align: center;
     }
     .bookBTN a:hover {
-        background: #888;
+        background: #F7AE3F;
     }
     /*Speakers section
         ================================*/
     #speakersOut {
         padding: 60px 0;
-        background: #eee;
+        background: #FFEAB8;
     }
     /*Sponsor section
         ================================*/
@@ -451,16 +451,16 @@
 <!--Do not remove site will Break-->
 <!--TOP TITLE-->
 <div class="col-sm-12 topTitleOut">
-    <div class="container"> Custom Page 1 </div>
+    <div class="container"></div>
 </div>
 <div class="col-sm-12 navigation">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a4">Area4</a> <a href="#a5">Area5</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Speakers</a> <a href="#a4">Scholarship Donations</a> <a href="#a5">Sponsors</a> </div>
     </div>
 </div>
 <div class="col-sm-12 altNav">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a3">Area4</a> <a href="#a5">Area5</a> <a href="#a1">To top</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Speakers</a> <a href="#a4">Scholarship Donations</a> <a href="#a5">Sponsors</a> <a href="#a1">To top</a> </div>
     </div>
 </div>
 <div id="topVideo" class="col-sm-12 area">
@@ -468,15 +468,16 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h1>Lorem Ipsum Dolor</h1>
-                <h4>May 19, 2017</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book.
-                </p>
+               <h1>Engineering Excellence Awards Banquet</h1>
+                <h4>February 3, 2021 | The Fairmont San Francisco</h4>
+                <p>Please join us for ACEC California's 6th Annual Scholarship Foundation Fundraising Event, presenting the ACEC California Engineering Excellence Awards (EEA). We are excited to bring the Scholarship Foundation and EEA together to celebrate
+                    the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.</p>
+                <p>&nbsp;</p>
+                <hr />
+                <p><strong>Additional event details coming soon...</strong></p>
+
             </div>
-            <div class="col-sm-6">
-                <iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" allow="autoplay; encrypted-media" width="100%" height="315" frameborder="0"></iframe>
-            </div>
+            <div class="col-sm-6" style="text-align: center;"><img alt="" src="/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 315px; height: 278px;" /><br /></div>
         </div>
     </div>
 </div>
@@ -485,43 +486,15 @@
 <div id="eventOut" class="col-sm-12">
     <div class="trig" id="a2"> </div>
     <div class="container">
-        <div id="desc1" class="col-sm-4">
-            <h2><i class="fas fa-hotel"></i> Venue</h2>
-            <p class="smRed">May 19, 2017</p>
-            <h3>The Awesome Hotel</h3>
-            <p>9620 Executive Center Dr N #200, St. Petersburg, FL 33702</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                book
-            </p>
-
-        </div>
-
-        <div id="desc2" class="col-sm-4">
-            <h2><i class="fas fa-bed"></i> Hotel Accommodation</h2>
-            <h3>Where can I stay?</h3>
-            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-            <div class="row">
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 1</a>
-                    <a href="#">Hotel 2</a>
-                    <a href="#">Hotel 3</a>
-                    <a href="#">Hotel 4</a>
-                </div>
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 5</a>
-                    <a href="#">Hotel 6</a>
-                    <a href="#">Hotel 7</a>
-                    <a href="#">Hotel 8</a>
-                </div>
+        <div id="desc1" class="col-sm-12 area">
+    <div class="trig" id="a2"> </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6" style="text-align: center;"><img alt="" src="/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 315px; height: 278px;" /><br /></div> <div class="col-sm-6">
+               <h1>Speed Sessions</h1>
+                <h4>February 3, 2021 | The Fairmont San Francisco</h4>
+                <p>Please join us for ACEC California's 1st Annual Speed Sessions...</p>      
             </div>
-
-
-        </div>
-
-        <div id="desc3" class="col-sm-4">
-            <h2><i class="fas fa-location-arrow"></i> Location Map</h2>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3527.3870347671286!2d-82.6441652851482!3d27.85937888272927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2e79f9e211f0b%3A0x1aa0703c8458af61!2sCommunity%20Brands!5e0!3m2!1sen!2sus!4v1598891849962!5m2!1sen!2sus"
-                width="100%" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     </div>
 </div>
