@@ -474,7 +474,24 @@
                     the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.</p>
             </div>
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 350px; height: 307px;" /> </div>
-        </div>
+             <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+        <br>
+        <table style="text-align: center; width: 173px; height: 40.5px; background-color: rgb(126, 217, 87);" cellpadding="10">
+            <tbody>
+                <tr>
+                    <td class="" style="">
+                        <font style="font-size: 22px;" color="#ffffff"><a href="https://www.acec-ca.org/events/register.aspx?id=1211369"><b><span style="color: rgb(255, 255, 255);">CLICK HERE
+</span></b></a></font>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</div>
+
+</div>
+</div></div>
     </div>
 </div>
 
@@ -490,6 +507,8 @@
                 </p>
             </div>
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://www.acec-ca.org/resource/resmgr/2022_eea/Speed_Sessions_Logo-01.png" style="width: 375px; height: 160px;" /> </div>
+		</div>
+   
         </div>
     </div>
 </div>
