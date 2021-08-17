@@ -88,34 +88,34 @@
     }
     /* Begin Testimonial Styles */
     #cpTestimonialOut {
-        background: #e8dfc6;
+        background: #7db5d0;
         padding-top: 30px;
         padding-bottom: 30px;
     }
     #testimonialSlider h1 {
-        color: #000;
+        color: #ffeab8;
         font-size: 30px;
         font-weight: 300;
         text-align: center;
     }
     #testimonialSlider .carousel-inner {
         margin: 0 auto;
-        width: 85%;
+        width: 100%;
     }
     #testimonialSlider .item {
         text-align: center;
-        width: 100%;
+        width: 85%;
         margin: 0 auto;
         font-style: italic;
         height: 190px;
     }
     #testimonialSlider .item p {
-        color: #000;
+        color: #ffeab8;
         font-size: 17px;
         line-height: 23px;
     }
     #testimonialSlider h3 {
-        color: #000;
+        color: #ffeab8;
         font-size: 17px;
         font-weight: 700;
         line-height: 21px;
@@ -219,7 +219,7 @@
         ================================*/
     #speakersOut {
         padding: 60px 0;
-        background: #fff;
+        background: #e8dfc6;
     }
     /*Sponsor section
         ================================*/
@@ -259,16 +259,16 @@
 	div#eventOut h2 i {
 		display: block;
 		margin-bottom: 10px;
-		color: #353E70;
+		color: #ffeab8;
 		font-size: 36px;
 	}
 	
 	#eventOut h2{
-	color: #666;
+	color: #ffeab8;
     margin-bottom: 30px;
     margin-top: 0;
     padding-bottom: 18px;
-    border-bottom: 3px solid #aaa;
+    border-bottom: 3px solid #ffeab8;
 	}
     @media (max-width: 960px) {
     .detTitle {
@@ -474,9 +474,9 @@
                     the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.</p>
             </div>
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 350px; height: 307px;" /> </div>
-             <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+             <hr><h2><i class="fas fa-calendar-alt"></i> Registration</h2>
         <br>
-        <table style="text-align: center; width: 173px; height: 40.5px; background-color: rgb(126, 217, 87);" cellpadding="10">
+        <table style="text-align: center; width: 173px; height: 40.5px; background-color: rgb(165, 44, 35);" cellpadding="10">
             <tbody>
                 <tr>
                     <td class="" style="">
@@ -573,18 +573,22 @@
         </div>
 
 
-
+   <!------Sponsor Slider B-------->
+                <div id="sponsorSlider" class="col-sm-12">
+                    <div class="trig" id="a5"> </div>
+                    <div class="container">
+                        <div class="desc1">
         <!------- Speed Session reg sponsor detail---->
         <div id="eventOut" class="col-sm-12">
             <div class="trig" id="a2"> </div>
             <div class="container">
                 <div id="desc1" class="col-sm-6">
-                    <h2><i class="fas fa-hotel"></i>Registration</h2>
+                    <h2>Registration</h2>
                     <h3>Button goes here...</h3>
                 </div>
 
                 <div id="desc2" class="col-sm-6">
-                    <h2><i class="fas fa-bed"></i>Speed Session Sponsorships</h2>
+                    <h2>Speed Session Sponsorships</h2>
                     <p>description goes here...</p>
                     <div class="row">
                         <div class="col-sm-6 linkCol">
