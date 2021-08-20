@@ -93,7 +93,7 @@
         padding-bottom: 30px;
     }
     #testimonialSlider h1 {
-        color: #020E54;
+        color: #020e54;
         font-size: 30px;
         font-weight: 300;
         text-align: center;
@@ -110,12 +110,12 @@
         height: 190px;
     }
     #testimonialSlider .item p {
-        color: #020E54;
+        color: #020e54;
         font-size: 17px;
         line-height: 23px;
     }
     #testimonialSlider h3 {
-        color: #020E54;
+        color: #020e54;
         font-size: 17px;
         font-weight: 700;
         line-height: 21px;
@@ -142,7 +142,7 @@
         padding-top: 20px;
     }
     .date {
-        color: #666;
+        color: #020e54;
         font-size: 17px;
         text-align: center;
         font-weight: 600;
@@ -161,14 +161,14 @@
     .detDes {
         padding-top: 17px;
         font-size: 12px;
-        background: #333333;
+        background: #020e54;
         color: #fff;
         overflow: hidden;
         text-align: center;
     }
     .detTitle {
-        background: #222d65;
-        color: #fff;
+        background: #7db5d0;
+        color: #020e54;
         text-align: center;
         line-height: 30px;
     }
@@ -185,7 +185,7 @@
         position: absolute;
         font-size: 35px;
         top: 12px;
-        color: #333333;
+        color: #020e54;
         z-index: 10;
     }
     .row.bookRow {
@@ -194,7 +194,7 @@
     }
     .pirceInfo {
         border-right: 1px solid #222d65;
-        color: #222d65;
+        color: #020e54;
         text-align: center;
         font-size: 20px;
         font-weight: 600;
@@ -205,7 +205,7 @@
     .bookBTN a {
         display: table;
         width: 73%;
-        background: #aa1e2d;
+        background: #a52c23;
         color: #fff;
         height: 38px;
         line-height: 38px;
@@ -213,7 +213,7 @@
         text-align: center;
     }
     .bookBTN a:hover {
-        background: #888;
+        background: #ff700a;
     }
     /*Speakers section
         ================================*/
@@ -250,7 +250,7 @@
     }
     #eventOut {
 		padding: 60px 0;
-		background: #7DB5D0;
+		background: #7db5d0;
 	}
 	#desc2 a {
 		display: block;
@@ -259,16 +259,16 @@
 	div#eventOut h2 i {
 		display: block;
 		margin-bottom: 10px;
-		color: #FFEAB8;
+		color: #e8dfc6;
 		font-size: 36px;
 	}
 	
 	#eventOut h2{
-	color: #FFEAB8;
+	color: #e8dfc6;
     margin-bottom: 30px;
     margin-top: 0;
     padding-bottom: 18px;
-    border-bottom: 3px solid #FFEAB8;
+    border-bottom: 3px solid #e8dfc6;
 	}
     @media (max-width: 960px) {
     .detTitle {
@@ -278,7 +278,7 @@
 		width: 50%;
 	}
 	#desc3{
-		width:100%;
+		width:50%;
 		}
     }
     
@@ -472,8 +472,10 @@
                 <h4>February 3, 2022 | The Fairmont San Francisco</h4>
                 <p>Please join us for ACEC California's 6th Annual Scholarship Foundation Fundraising Event, presenting the ACEC California Engineering Excellence Awards (EEA). We are excited to bring the Scholarship Foundation and EEA together to celebrate
                     the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.
-                </p>
-            </div>
+                </p><br>
+		      <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+                <hr>
+                            </div>
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 287px; height: 250px;" /> </div>
         </div>
     </div>
@@ -628,14 +630,23 @@
     <div class="container">
         <div class="row">
 <div id="spekerInfo" class="col-sm-6">
-                <h1>Registration</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                </div>            
+                <h1><i class="fas fa-calendar-alt"></i> Registration</h1>
+                <hr>
+	 <table style="text-align: center; width: 173px; height: 40.5px; background-color: rgb(222, 79, 45);" cellpadding="10">
+                    <tbody>
+                        <tr>
+                            <td class="" style="">
+                                <font style="font-size: 22px;" color="#ffffff"><a href="https://www.acec-ca.org/events/register.aspx?id=1402010"><b><span style="color: rgb(255, 255, 255);">CLICK HERE
+</span></b></a></font>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 		<div id="spekerInfo" class="col-sm-6">
                 <h1>Speed Session Sponsorships</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+			<hr>
+                <p>Coming soon...</p>
                </div>
         </div>
     </div>
@@ -708,8 +719,7 @@
             <div id="priceHeading" class="row">
              		    <h1>EEA Banquet Sponsorship Opportunities</h1>
                 <div id="priceInfo" class="col-sm-12">
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                </div>
+                                    </div>
             </div>
             <!-------SECTION 4b Booking Row 1----------->
             <div class="row bookRow">
@@ -785,13 +795,12 @@
                 <div class="trig" id="a3"> </div>
                 <div class="container">
                     <div class="row">
-                        <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400" /> </div>
+                        <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/scholarship_foundation.png" /> </div>
                         <div id="spekerInfo" class="col-sm-6">
                         				<h1>Scholarship Foundation Donations</h1>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-                                a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                            <p> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                            <a>Read More</a> </div>
+                            <p>Every year, the ACEC California Schoalrship Foundation seeks the best and brightest engineering and land surveying students in California and awards scholarships to them. Over the years, ACEC California has awarded over $800,000 in cash grants to hundreds of outstanding students.</p>
+				<p>Your donation to the Foundation is an important investment in the future of the engineering and land surveying professions. Helping today's top students become tomorrow's best engineers is crucial to our industry. As the cost of education continues to spiral upward, it is more important than ever that we lend a hand to those deserving young men and women. By donating to the Foundation, you will help  attract and retain the most talented students to the professional engineering and land surveying professions. With your support, students aspiring to be the next generation of engineers and land surveyors will continue on their path towards entering the workforce knowing that the industry is already actively supporting their success.</p>
+                            <a>Donate Here</a> </div>
                     </div>
                 </div>
             </div>
