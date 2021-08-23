@@ -475,6 +475,19 @@
                 </p><br />
                 <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
                 <hr />
+		    <table style="text-align: center; width: 173px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: 22px; color: #ffffff;"><a href="https://www.acec-ca.org/events/register.aspx?id=1402010"><b><span style="color: #ffffff;">CLICK HERE
+</span></b>
+                                            </a>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
             </div>
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 287px; height: 250px;" /> </div>
         </div>
@@ -501,13 +514,16 @@
 <!-------SECTION 2a Event detail---->
 <div id="eventOut" class="col-sm-12">
     <div class="trig" id="a2"> </div>
+	  <div class="sTitle">
+                            <h1>Speed Session Speakers</h1><br>
+                        </div>
     <div class="container">
         <div id="desc1" class="col-sm-4">
-            <h2><span style="color: #020e54;">Stephanie Wiggins</span></h2>
-            <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-01.png" style="width: 200px; height: 200px;" /></span></h4>
+                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-01.png" style="width: 200px; height: 200px;" /></span></h4>
+		<h2><span style="color: #020e54;">Stephanie Wiggins</span></h2>
             <p><span style="color: #020e54;">Stephanie Wiggins, Chief Executive Office at the L.A. Metro will be presenting our Opening Session.</span></p>
-            <h2><span style="color: #020e54;">Elaine Forbes</span></h2>
             <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-04.png" style="width: 200px; height: 200px;" /></span></h4>
+	<h2><span style="color: #020e54;">Elaine Forbes</span></h2>
             <p><span style="color: #020e54;">Elaine Forbes, Executive Director at the Port of San Francisco will be presenting on Seismic Activity.</span></p>
 
             <p>&nbsp;</p>
@@ -515,8 +531,8 @@
         </div>
         <div class="container">
             <div id="desc3" class="col-sm-4">
-                <h2><span style="color: #020e54;">Anissa Voyiatzes</span></h2>
-                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-07.png" style="width: 200px; height: 200px;" /></span></h4>
+                                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-07.png" style="width: 200px; height: 200px;" /></span></h4>
+		    <h2><span style="color: #020e54;">Anissa Voyiatzes</span></h2>
                 <p><span style="color: #020e54;">Anissa Voyiatzes, Engineering &amp; Municipal Services Group Leader at Ardurra will be presenting on Green Infrastructure Runoff.&nbsp;</span></p>
 
             </div>
@@ -527,14 +543,14 @@
         <div class="trig" id="a2"> </div>
         <div class="container">
             <div id="desc1" class="col-sm-4">
-                <h2><span style="color: #020e54;">Claire Bonham-Carter</span></h2>
-                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-03.png" style="width: 200px; height: 200px;" /></span></h4>
+                                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-03.png" style="width: 200px; height: 200px;" /></span></h4>
+		    <h2><span style="color: #020e54;">Claire Bonham-Carter</span></h2>
                 <p><span style="color: #020e54;">Claire Bonham-Carter, Vice President at AECOM will be presenting on Resilience &amp; Sustainability Frameworks for Municipal Infrastructure.&nbsp;</span></p>
             </div>
             <div class="container">
                 <div id="desc1" class="col-sm-4">
-                    <h2><span style="color: #020e54;">Maria Hernandez, PhD.</span></h2>
-                    <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-06.png" style="width: 200px; height: 200px;" /></span></h4>
+                                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-06.png" style="width: 200px; height: 200px;" /></span></h4>
+			<h2><span style="color: #020e54;">Maria Hernandez, PhD.</span></h2>
                     <p><span style="color: #020e54;">Maria Hernandez, PhD., Consulting Practice Leader at InclusionINC. will be co-presenting on Inclusion and Resilience in the Workforce.</span></p>
 
                 </div>
@@ -542,8 +558,8 @@
             </div>
             <div class="container">
                 <div id="desc3" class="col-sm-4">
-                    <h2><span style="color: #020e54;">Tammy Ramos, JD</span></h2>
-                    <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-05.png" style="width: 200px; height: 200px;" /></span></h4>
+                                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-05.png" style="width: 200px; height: 200px;" /></span></h4>
+			<h2><span style="color: #020e54;">Tammy Ramos, JD</span></h2>
                     <p><span style="color: #020e54;">Tammy Ramos, JD, Executive Consultant &amp; Coach at InclusionINC. will be presenting on Inclusion and Resilience in the Workforce.</span></p>
 
                 </div>
@@ -554,24 +570,14 @@
             <div class="trig" id="a2"> </div>
             <div class="container">
                 <div id="desc1" class="col-sm-4">
-                    <h2><span style="color: #020e54;">Katie Miller</span></h2>
-                    <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-02.png" style="width: 200px; height: 200px;" /></span></h4>
+                                       <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-02.png" style="width: 200px; height: 200px;" /></span></h4>
+			 <h2><span style="color: #020e54;">Katie Miller</span></h2>
                     <p><span style="color: #020e54;">Katie Miller, President at Left Lane Advisors will be presenting on How Resiliency Speaks to the Brain.&nbsp;</span></p>
                 </div>
-                <div class="container">
-                    <div id="desc1" class="col-sm-4">
-                        <h2><span style="color: #7db5d0;">Venue</span></h2>
-                        <h4><span style="color: #7db5d0;">The Awesome Hotel</span></h4>
-                        <p><span style="color: #7db5d0;">9620 Executive Center Dr N #200, St. Petersburg, FL 33702</span></p>
-
-                    </div>
+                                  </div>
 
                 </div>
-                <div class="container">
-                    <div id="desc3" class="col-sm-4">
-                        <h2><span style="color: #7db5d0;">Venue</span></h2>
-                        <h4><span style="color: #7db5d0;">The Awesome Hotel</span></h4>
-                        <p><span style="color: #7db5d0;">9620 Executive Center Dr N #200, St. Petersburg, FL 33702</span></p>
+                
 
                     </div>
                 </div>
@@ -584,7 +590,7 @@
                         <div id="spekerInfo" class="col-sm-6">
                             <h1><i class="fas fa-calendar-alt"></i> Registration</h1>
                             <hr />
-                            <table style="text-align: center; width: 173px; height: 40.5px; background-color: #de4f2d;" cellpadding="10">
+                            <table style="text-align: center; width: 173px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -672,6 +678,7 @@
                         <!--------SECTION 4a Pricing Heading-------->
                         <div id="priceHeading" class="row">
                             <h1>EEA Banquet Sponsorship Opportunities</h1>
+				<p>Coming soon...</p>
                             <div id="priceInfo" class="col-sm-12">
                             </div>
                         </div>
@@ -758,7 +765,19 @@
                                     cost of education continues to spiral upward, it is more important than ever that we lend a hand to those deserving young men and women. By donating to the Foundation, you will help attract and retain the most talented
                                     students to the professional engineering and land surveying professions. With your support, students aspiring to be the next generation of engineers and land surveyors will continue on their path towards entering the
                                     workforce knowing that the industry is already actively supporting their success.</p>
-                                <a>Donate Here</a> </div>
+                                                          <table style="text-align: center; width: 225px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: 22px; color: #ffffff;"><a href="https://www.acec-ca.org/store/ListProducts.aspx?catid=555372"><b><span style="color: #ffffff;">DONATE HERE
+</span></b>
+                                            </a>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                         </div>
                     </div>
                 </div>
